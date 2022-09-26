@@ -3,4 +3,4 @@ This is an app using the Apple iOS built-in AVPlayer (AVPlayerViewController) to
 
 Demo
 
-https://github.com/erikhedreniusMI/Video-Stream/raw/main/demo.MP4
+https://github.com/erikhedreniusMI/Video-Stream/raw/main/demo.mp4
