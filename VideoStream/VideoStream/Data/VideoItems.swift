@@ -3,7 +3,7 @@ final class VideoItems {
 
     let videoItems: [VideoItem] = [
         VideoItem(
-            urlString:"http://d3rlna7iyyu8wu.cloudfront.net/skip_armstrong/skip_armstrong_multi_language_subs.m3u8",
+            urlString: "http://d3rlna7iyyu8wu.cloudfront.net/skip_armstrong/skip_armstrong_multi_language_subs.m3u8",
             name: "Skip Armstrong",
             description: "Short film about the filmmaker Skip Armstrong.",
             type: .stream),
